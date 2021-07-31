@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">CloPad</string>
+    <string name="clopad">CloPad</string>
+    <string name="search_notes">Search Notes</string>
+    <string name="clopad_notes">CloPad Notes</string>
+    <string name="note_title">Note Title</string>
+    <string name="note_subtitle">Note Subtitle</string>
+    <string name="type_your_note_here">Type your note here...</string>
+    <string name="miscellaneous">Miscellaneous</string>
+    <string name="pick_color">Pick Color</string>
+    <string name="set_your_priority">Set your Priority</string>
+    <string name="add_image">Add Image</string>
+    <string name="add_url">Add URL</string>
+    <string name="enter_url">Enter URL</string>
+    <string name="add">ADD</string>
+    <string name="cancel_dialog">CANCEL</string>
+    <string name="delete_note">Delete Note</string>
+    <string name="are_you_sure_you_want_to_delete_this_note_it_can_t_be_restored_later">Are you sure, you want to delete this note? It can\'t be Restored later!</string>
+</resources>
